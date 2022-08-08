@@ -1,0 +1,15 @@
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\lect_series_03\lect_01_02.08\exc_01_helloworld\bin\Debug\net6.0\exc_01_helloworld.exe
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\lect_series_03\lect_01_02.08\exc_01_helloworld\bin\Debug\net6.0\exc_01_helloworld.deps.json
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\lect_series_03\lect_01_02.08\exc_01_helloworld\bin\Debug\net6.0\exc_01_helloworld.runtimeconfig.json
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\lect_series_03\lect_01_02.08\exc_01_helloworld\bin\Debug\net6.0\exc_01_helloworld.dll
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\lect_series_03\lect_01_02.08\exc_01_helloworld\bin\Debug\net6.0\exc_01_helloworld.pdb
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\lect_series_03\lect_01_02.08\exc_01_helloworld\obj\Debug\net6.0\exc_01_helloworld.csproj.AssemblyReference.cache
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\lect_series_03\lect_01_02.08\exc_01_helloworld\obj\Debug\net6.0\exc_01_helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\lect_series_03\lect_01_02.08\exc_01_helloworld\obj\Debug\net6.0\exc_01_helloworld.AssemblyInfoInputs.cache
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\lect_series_03\lect_01_02.08\exc_01_helloworld\obj\Debug\net6.0\exc_01_helloworld.AssemblyInfo.cs
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\lect_series_03\lect_01_02.08\exc_01_helloworld\obj\Debug\net6.0\exc_01_helloworld.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\lect_series_03\lect_01_02.08\exc_01_helloworld\obj\Debug\net6.0\exc_01_helloworld.dll
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\lect_series_03\lect_01_02.08\exc_01_helloworld\obj\Debug\net6.0\refint\exc_01_helloworld.dll
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\lect_series_03\lect_01_02.08\exc_01_helloworld\obj\Debug\net6.0\exc_01_helloworld.pdb
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\lect_series_03\lect_01_02.08\exc_01_helloworld\obj\Debug\net6.0\exc_01_helloworld.genruntimeconfig.cache
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\lect_series_03\lect_01_02.08\exc_01_helloworld\obj\Debug\net6.0\ref\exc_01_helloworld.dll
